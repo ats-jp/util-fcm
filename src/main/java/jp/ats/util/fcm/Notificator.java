@@ -1,4 +1,4 @@
-package jp.ats.platemail.fcm;
+package jp.ats.util.fcm;
 
 /**
  * FCM通知処理

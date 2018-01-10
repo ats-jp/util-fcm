@@ -1,4 +1,4 @@
-package jp.ats.platemail.fcm;
+package jp.ats.util.fcm;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

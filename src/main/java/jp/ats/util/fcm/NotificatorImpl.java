@@ -1,4 +1,4 @@
-package jp.ats.platemail.fcm;
+package jp.ats.util.fcm;
 
 import java.io.IOException;
 import java.io.InputStream;

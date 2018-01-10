@@ -1,11 +1,11 @@
-package jp.ats.platemail.fcm;
+package jp.ats.util.fcm;
 
 import java.math.BigInteger;
 import java.net.HttpURLConnection;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import jp.ats.platemail.fcm.Notificator.Response;
+import jp.ats.util.fcm.Notificator.Response;
 
 /**
  * Exponential Backoffアルゴリズムで、FCM通知処理の再試行を行う
